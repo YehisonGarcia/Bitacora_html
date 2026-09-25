@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <main>
+        <section>
+            <h1>Formulario de Usuario</h1>
+            <form>
+                <div>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" name="" id="nombre" required>
+                </div>
+                <br>
+                <div>
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" name="" id="apellido" required>
+                </div>
+                <br>
+                <div>
+                    <label for="telefono">Telefono:</label>
+                    <input type="number" name="telefono" id="telefono" step="5" required>
+                </div>
+                <br>
+                <label for="ciudad">Ciudad</label>
+                    <select name="" id="ciudad" >
+                        <option value="">seleccione...</option>
+                        <option value="1">Bucaramanga</option>
+                        <option value="2">Girón</option>
+                        <option value="3">Floridablanca</option>
+                    </select>
+                <div>
+                    <label for="hombre">Hombre</label>
+                    <input type="radio" name="genero" id="hombre">
+                    <label for="mujer">mujer</label>
+                    <input type="radio" name="genero" id="mujer" >
+                </div>
+                <br>
+                <div>
+                    <label for="objetivo">Objetivo</label>
+                    <textarea></textarea>
+                </div>
+                <br>
+                <button>Guardar</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
