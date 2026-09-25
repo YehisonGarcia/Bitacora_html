@@ -10,7 +10,11 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 | :---------------------- | :------------  | :---------------- | :------------------                          |
 | [Nombre del Aprendiz 1] | Líder          | `@usuario1`       | Agosto Semana 4, 5 y septiembre semana 1     |
 | [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       | Agosto Semana 1, 2 y 3                       |
+
 | [Gabriela Uribe Santamaria] | Desarrollador2 | `@gabiuribe2008`       | Agosto Semana 5 y Septiembre Semana 2 y 3    |
+
+| [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       | Agosto Semana 5 y Septiembre Semana 2 y 3    |
+
 
 El líder será el encargado de coordinar el trabajo del equipo, revisar los cambios realizados por los desarrolladores y realizar la integración final de las ramas hacia `main`.
 
@@ -123,4 +127,7 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 #firma desarrollador1
 
 **
+
 #Gabriela Uribe Santamaria
+
+#firma desarrollador2
