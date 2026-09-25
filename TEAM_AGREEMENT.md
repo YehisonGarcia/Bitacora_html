@@ -119,8 +119,8 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 **
 #firma lider
 
-**
+**Angel Vicaino
 #firma desarrollador1
-Angel Vicaino
+
 **
 #firma desarrollador2
