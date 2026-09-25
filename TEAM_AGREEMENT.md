@@ -123,4 +123,4 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 #firma desarrollador1
 
 **
-#Gabriela Uribe
+#Gabriela Uribe Santamaria
